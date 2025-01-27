@@ -30,7 +30,6 @@ The PDF ChatFlow solves these challenges by:
 - **dotenv**: For managing API keys securely.
 
 ## How It Works
-
 1. **Upload PDF**: User uploads PDF(s) through the Streamlit interface.
 2. **Text Extraction**: The system extracts all text from the PDF.
 3. **Text Chunking**: Text is split into smaller chunks for easier processing.
