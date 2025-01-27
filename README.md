@@ -3,7 +3,7 @@
 PDF ChatFlow is a tool that allows users to interact with PDF documents through a chat interface. By uploading a PDF, users can ask questions, and the system will respond with answers based on the content of the PDF. This is powered by Google’s Gemini API and advanced AI techniques to process and retrieve relevant information.
 
 ## Problem
-Manually searching through large PDF documents (e.g., research papers, reports, or contracts) can be time-consuming. PDF ChatFlow simplifies this by enabling users to extract information from these documents more efficiently.
+Manually searching through large PDF documents (e.g., research papers, reports) can be time-consuming. PDF ChatFlow simplifies this by enabling users to extract information from these documents more efficiently.
 
 ### Key Challenges:
 1. **Manual Search Limitation**: Finding relevant information in PDFs using traditional search methods is hard.
