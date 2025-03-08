@@ -9,7 +9,7 @@ Manually searching through large PDF documents (e.g., research papers, reports) 
 1. **Manual Search Limitation**: Finding relevant information in PDFs using traditional search methods is hard.
 2. **Large Text Volume**: PDFs can be too lengthy to navigate easily.
 3. **Contextual Answering**: Extracting context-based answers from PDFs requires understanding the document's content.
-\
+
 ## Solution
 
 The PDF ChatFlow solves these challenges by:
